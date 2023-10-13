@@ -1,6 +1,6 @@
 {
     "name": "nirav-dobariya/composertesting",
-    "description": "\"for create\"",
+    "description": "for create",
     "type": "library",
     "autoload": {
         "psr-4": {
