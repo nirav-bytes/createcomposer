@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Learn\\Composer\\' => array($baseDir . '/src'),
+    'Nirav\\Composertesting\\' => array($baseDir . '/src'),
 );

@@ -1,11 +1,18 @@
 {
-    "name": "learn/composer",
+    "name": "nirav/composertesting",
+    "description": "\"for create\"",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Learn\\Composer\\": "src/"
+            "Nirav\\Composertesting\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "nirav.dobariya",
+            "email": "nirav.dobariya@bytestechnolab.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {}
 }
