@@ -1,0 +1,11 @@
+{
+    "name": "learn/composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Learn\\Composer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
